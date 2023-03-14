@@ -1,4 +1,4 @@
-
+USE DATABASE DEMO_CITIBIKE_DEV;
 ----------------------------------------
 --CITIBIKE_MART
 ----------------------------------------
@@ -101,8 +101,3 @@ CREATE TABLE IF NOT EXISTS T_CITIBIKE_METASTORE
  end_lat VARCHAR,
  end_lng VARCHAR,
  membership_type VARCHAR);
-
-
-
-
- 
