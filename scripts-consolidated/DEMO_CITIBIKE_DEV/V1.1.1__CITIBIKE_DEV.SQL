@@ -102,4 +102,6 @@ CREATE TABLE IF NOT EXISTS T_CITIBIKE_METASTORE
  end_lng VARCHAR,
  membership_type VARCHAR);
 
+
+
  
