@@ -1,4 +1,4 @@
-name: snowflake-demo-citibike-dev
+name: demo_citibike_deploy_snowflake
 
 # Controls when the action will run. 
 on:
